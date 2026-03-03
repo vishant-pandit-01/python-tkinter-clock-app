@@ -34,6 +34,4 @@ Monday
 - Python
 - Tkinter
 - Datetime Module
-
 ---
-
