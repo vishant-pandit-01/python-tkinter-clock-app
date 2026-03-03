@@ -37,12 +37,3 @@ Monday
 
 ---
 
-
-
-
-
-
-okkk
-
-
-okkk
