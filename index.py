@@ -20,11 +20,13 @@ def clock():
     label.after(1000, clock)
 
 
-label = Label(design, bg="black", fg="cyan",
-              font=("Arial", 35, "bold"))
+
+label = Label(design, bg="black", fg="cyan",font=("Arial", 35, "bold"))
 label.place(relx=0.5, rely=0.5, anchor="center")
+
 
 clock()
 root.mainloop()
+
 
 
