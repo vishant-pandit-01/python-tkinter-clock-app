@@ -10,7 +10,6 @@ root.title("Digital Clock")
 design = Frame(root, bg="black",highlightbackground="red",highlightthickness=2)
 design.place(relx=0.5, rely=0.5, anchor="center",height=350, width=350)
 
-
 def clock():
     now = datetime.datetime.now()
     current_time = now.strftime("%I:%M:%S %p")
@@ -23,6 +22,7 @@ label.place(relx=0.5, rely=0.5, anchor="center")
 
 clock()
 root.mainloop()
+
 
 
 
