@@ -6,9 +6,7 @@ This application displays the current time and date in real-time with a modern n
 
 ---
 
-
 ## ✨ Features
-
 
 - ⏰ Real-time clock (updates every second)
 - 📅 Displays current date
@@ -17,7 +15,6 @@ This application displays the current time and date in real-time with a modern n
 - 🧩 Built using Tkinter (Python GUI library)
 
 ---
-
 
 ## 📸 Preview
 
