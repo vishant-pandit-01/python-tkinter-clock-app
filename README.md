@@ -19,7 +19,6 @@ Displays:
 Time (HH:MM:SS AM/PM)
 Day
 Date Month Year
-
 Example:
 10:45:21 PM
 Monday
