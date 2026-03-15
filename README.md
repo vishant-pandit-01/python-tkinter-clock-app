@@ -1,11 +1,9 @@
 # 🕒 Digital Clock using Tkinter
 
-
 A simple and stylish Digital Clock built using Python and Tkinter.  
 This application displays the current time and date in real-time with a modern neon-style interface.
 
 ---
-
 ## ✨ Features
 
 - ⏰ Real-time clock (updates every second)
@@ -15,7 +13,6 @@ This application displays the current time and date in real-time with a modern n
 - 🧩 Built using Tkinter (Python GUI library)
 
 ---
-
 ## 📸 Preview
 
 Displays:
