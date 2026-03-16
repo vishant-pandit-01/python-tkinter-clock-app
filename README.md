@@ -15,11 +15,13 @@ This application displays the current time and date in real-time with a modern n
 
   
 ---
+
 ## 📸 Preview
 Displays:
 Time (HH:MM:SS AM/PM)
 Day
 Date Month Year
+
 
 Example:
 10:45:21 PM
