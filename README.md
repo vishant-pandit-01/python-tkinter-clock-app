@@ -13,10 +13,9 @@ This application displays the current time and date in real-time with a modern n
 - 🖼 Centered modern layout
 - 🧩 Built using Tkinter (Python GUI library)
 
+  
 ---
-
 ## 📸 Preview
-
 Displays:
 Time (HH:MM:SS AM/PM)
 Day
